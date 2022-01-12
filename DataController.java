@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class DataController 
 {    
+    
     public static void AddNewMajor(Scanner sc)
     {
         Major newMajor = Major.CreateNewMajor(sc);
@@ -288,4 +289,5 @@ public class DataController
         }
         return null;
     }
+
 }

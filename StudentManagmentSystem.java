@@ -2,8 +2,9 @@ import java.util.Scanner;
 
 public class StudentManagmentSystem 
 {
-    static Scanner sc = new Scanner(System.in);
     
+    
+    static Scanner sc = new Scanner(System.in);    
     private static int PrintOptions()
     {
         System.out.println("\n\nx----------------------------------------------------------------x");
@@ -65,4 +66,6 @@ public class StudentManagmentSystem
         }
         System.out.println("x--------------------------------See you later--------------------------------x");
     }
+
+
 }

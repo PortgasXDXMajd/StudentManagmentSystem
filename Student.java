@@ -52,10 +52,8 @@ public class Student
         System.out.print("Major Id: ");
         _majorId = sc.nextInt();
         
-
-        Student newStudent = new Student(DB.students.size() + 1,_fn,_ln,_g,_n,_majorId,0.0);
+        Student newStudent = new Student(DB.students.size() + 1, _fn, _ln, _g, _n, _majorId, 0.0);
         
         return newStudent;
-
     }
 }

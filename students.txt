@@ -1,5 +1,4 @@
 1 Majd Kayyal Male Syrian 1 4.0
 2 Linda Zakhama Female Tunisian 2 5.0
 3 Leen Zakhama Female Tunisian 3 4.0
-
-4 Samer Kayyal Male Tunisian 1 0.0
+4 Samer Kayyal Male Tunisian 1 2.0
